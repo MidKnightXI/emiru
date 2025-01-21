@@ -3,9 +3,9 @@
 		<img src="./web/static/logo_filled.svg" width="200">
 	</a>
 </p>
-<h1 align="center"><b>Miru</b></h1>
+<h1 align="center"><b>Emiru</b></h1>
 
-<h4 align="center"><b>Stream anime torrents, real-time with no waiting for downloads</b></h4>
+<h4 align="center"><b>Tauri port for Miru, Stream anime torrents, real-time with no waiting for downloads</b></h4>
 
 <p align="center">
   <a href="https://miru.watch/#about">About</a> •
